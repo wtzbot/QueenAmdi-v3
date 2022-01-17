@@ -1,4 +1,4 @@
-Asena.addCommand(
+Amdi.applyCMD(
   {
     pattern: "fb ?(.*)",
     fromMe: true,
